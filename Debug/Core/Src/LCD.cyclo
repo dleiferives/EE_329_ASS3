@@ -1,0 +1,7 @@
+../Core/Src/LCD.c:10:6:LCD_GPIO_Init	1
+../Core/Src/LCD.c:39:6:LCD_write_command_byte	1
+../Core/Src/LCD.c:90:6:LCD_write_byte	1
+../Core/Src/LCD.c:130:6:LCD_write_string	3
+../Core/Src/LCD.c:141:6:LCD_screen_init	1
+../Core/Src/LCD.c:187:6:SysTick_Init	1
+../Core/Src/LCD.c:200:6:delay_us	2
